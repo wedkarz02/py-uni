@@ -5,3 +5,6 @@ Paweł Rybak; 288568; informatyka ogólnoakademicka; programowanie w języku pyt
 ### Projekt django:
  - repo: [link](https://github.com/wedkarz02/movie_hub)
 
+### Projekt machine learning:
+ - repo: [link](https://github.com/wedkarz02/cats-vs-dogs)
+
