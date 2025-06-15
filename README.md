@@ -8,3 +8,5 @@ Paweł Rybak; 288568; informatyka ogólnoakademicka; programowanie w języku pyt
 ### Projekt machine learning:
  - repo: [link](https://github.com/wedkarz02/cats-vs-dogs)
 
+### Projekt image processing:
+ - repo: [link](https://github.com/wedkarz02/image-processing)
