@@ -10,3 +10,6 @@ Paweł Rybak; 288568; informatyka ogólnoakademicka; programowanie w języku pyt
 
 ### Projekt image processing:
  - repo: [link](https://github.com/wedkarz02/image-processing)
+
+### Projekt snake:
+ - repo: [link](https://github.com/wedkarz02/snek)
